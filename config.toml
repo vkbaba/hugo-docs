@@ -1,0 +1,5 @@
+baseURL = 'https://vkbaba.github.io/hugo-docs'
+languageCode = 'ja'
+title = 'Hugo docs'
+publishDir = "docs"
+theme = "hugo-book"

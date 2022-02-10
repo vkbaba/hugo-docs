@@ -1,0 +1,15 @@
+{
+  "name": "Hugo docs",
+  "short_name": "Hugo docs",
+  "start_url": "/hugo-docs/",
+  "scope": "/hugo-docs/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/hugo-docs/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
